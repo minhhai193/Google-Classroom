@@ -1,0 +1,5 @@
+Options -Indexes
+
+DirectoryIndex dashboard.php
+
+php_flag output_buffering on
